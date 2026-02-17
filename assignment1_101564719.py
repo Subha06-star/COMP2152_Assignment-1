@@ -1,5 +1,5 @@
 """
-Author: Sanzida
+Author: Sanzida Islam
 Assignment: #1
 """
 
